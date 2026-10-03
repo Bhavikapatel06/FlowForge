@@ -1,0 +1,31 @@
+{
+  "release_id": "QONEQT-1791021324-B43EEE9C",
+  "channel": "global-feed",
+  "platform": "Qoneqt Global Feed",
+  "title": "The Truth About AI in student life",
+  "hook": "AI in student life isn't what you think. Here is how it's changing everything.",
+  "tags": [
+    "aiinstudentlife",
+    "innovation",
+    "future",
+    "tech",
+    "productivity"
+  ],
+  "video_specs": {
+    "format": "MP4 (H.264 / AAC)",
+    "resolution": "1080x1920 (9:16 Vertical)",
+    "duration": "33.0s",
+    "sha256": "b43eee9c98223c424ea6b21db9c04b4d03a5837e7f73389e503ad21c3c8f45c1",
+    "filename": "final.mp4",
+    "file_size_bytes": 2652290
+  },
+  "quality_gate": {
+    "status": "PASSED",
+    "passed_checks": 7,
+    "total_checks": 7
+  },
+  "published_at": "2026-10-03 09:55:24 UTC",
+  "status": "BROADCAST_READY",
+  "gateway": "Qoneqt Global Feed Delivery Gateway (Awaiting Live Credentials)",
+  "note": "Verified & sealed release package ready for instant broadcast. To target live cloud instance, set QONEQT_API_URL and QONEQT_API_KEY in .env."
+}

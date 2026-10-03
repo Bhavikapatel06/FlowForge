@@ -1,0 +1,50 @@
+{
+  "passed": true,
+  "status": "READY TO PUBLISH",
+  "total_checks": 7,
+  "passed_checks": 7,
+  "checks": [
+    {
+      "name": "Video File",
+      "passed": true,
+      "details": "final.mp4 (2.53 MB)"
+    },
+    {
+      "name": "Playable Container",
+      "passed": true,
+      "details": "H.264 FastStart Web Compliant"
+    },
+    {
+      "name": "Duration Check",
+      "passed": true,
+      "details": "33.0s (target: 35s, range: 25-50s)"
+    },
+    {
+      "name": "9:16 Vertical Ratio",
+      "passed": true,
+      "details": "1080x1920 (Vertical 9:16)"
+    },
+    {
+      "name": "Audio Stream",
+      "passed": true,
+      "details": "AAC Stereo Audio Stream present"
+    },
+    {
+      "name": "Captions Aligned",
+      "passed": true,
+      "details": "Synchronized SRT subtitle stream available"
+    },
+    {
+      "name": "Scenes Complete",
+      "passed": true,
+      "details": "6/6 vertical scene cards rendered"
+    }
+  ],
+  "metrics": {
+    "resolution": "1080x1920",
+    "aspect_ratio": "9:16",
+    "duration": "33.0s",
+    "file_size": "2.53 MB",
+    "scenes": "6/6"
+  }
+}
