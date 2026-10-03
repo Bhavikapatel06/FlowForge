@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+**/env/
+.venv/
+**/.venv/
+venv/
+**/venv/
+build/
+dist/
+*.egg-info/
+
+# Node
+node_modules/
+**/node_modules/
+.next/
+**/.next/
+out/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# Keep .env.example
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Generated media outputs (keep folder structure, ignore generated media)
+generated/images/*
+!generated/images/.gitkeep
+generated/audio/*
+!generated/audio/.gitkeep
+generated/captions/*
+!generated/captions/.gitkeep
+generated/videos/*
+!generated/videos/.gitkeep
+generated/scripts/*
+!generated/scripts/.gitkeep
+generated/scenes/*
+!generated/scenes/.gitkeep
